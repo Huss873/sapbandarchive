@@ -1,6 +1,4 @@
-[
-  {
-    "email": "admin@sap.com",
-    "password": "PL34$ANTR13S"
-  }
-]
+{
+  "email": "admin@sap.com",
+  "password": "$2b$10$FJkz5L23FjB1xjU8wA0sQOd1YxQkQ5M/7GprbDhSxrGkL8z6jB6Ga"
+}
